@@ -12,6 +12,8 @@ This repository contains a collection of datasets. While some data sets are used
   Type: Binary classification
   > M. Harries, N.S. Wales, Splice-2 comparative evaluation: Electricity pricing, 1999.
 
+  *Notes:* This version does not include the attributes 'date' and 'day'.
+
 * **Moving Squares Dataset** (moving_squares.csv)
 
   Type: Multi-class classification
