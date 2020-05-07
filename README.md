@@ -30,6 +30,12 @@ This repository contains a collection of datasets. While some data sets are used
 
   > R. Elwell, R. Polikar, "Incremental learning of concept drift in nonstationary environments", IEEE Transactions on Neural Networks, vol. 22, no. 10, pp. 1517-1531, Oct 2011.
 
+* **Iris Dataset (with artificial timestamps)** (iris_dataset.csv)
+
+  Type: Multi-class classification
+  
+  > Fisher, Rory A. "The use of multiple measurements in taxonimic problems." (1936).
+  
 ---
 
 ## Deprecated
